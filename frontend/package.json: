@@ -38,3 +38,8 @@
     ]
   }
 }
+npm init @eslint/config@latest
+# or
+yarn create @eslint/config
+# or
+pnpm create @eslint/config@latest
